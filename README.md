@@ -9,7 +9,7 @@ Dynamic MERN Full Stack Web Developer with 1200+ hours of coding experience. Pro
 
 - 🌱 I’m currently learning MERN Stack
 
-- 💬 Ask me about HTML,JavaScript,CSS
+- 💬 Ask me about HTML, JavaScript,CSS
 
 - 📫 How to reach me *sujeetpaswan81@gmail.com*
 
@@ -25,5 +25,5 @@ Dynamic MERN Full Stack Web Developer with 1200+ hours of coding experience. Pro
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suj01&show_icons=true&locale=en" alt="Suj01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suj01&" alt="Suj01" /></p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit1921184&theme=tokyonight"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Suj01&theme=tokyonight"></a>
 <a href="https://github.com/Suj01"><img alt="Sujeet Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Suj01&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
